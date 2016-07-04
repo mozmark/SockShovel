@@ -1,9 +1,10 @@
 {
   "name": "sockshovel",
   "title": "SockShovel",
-  "id": "jid1-MkemjcTsgz7lJQ",
+  "id": "sockshovel@computerist.org",
   "description": "a basic add-on",
   "author": "",
   "license": "MPL 2.0",
-  "version": "0.6"
+  "version": "0.6",
+  "main": "lib/main.js"
 }
